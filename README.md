@@ -46,5 +46,3 @@ The game logic is implemented using a combination of Python functions that handl
 
 You can customize the game by modifying the constants at the beginning of the script, such as grid size, colors, and window size, to fit your preferences.
 
-
-*This README is a guide to help you get started with the Connect Four game project. Modify and extend it as needed to fit your project's specifics.*
